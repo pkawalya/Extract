@@ -4,7 +4,7 @@
 
 [Non awesome and awesome lists curated on GitHub](https://github.com/jnv/lists)<br />
 
-[Digital Working from anywhere](https://github.com/cbovis/awesome-digital-nomads)<br />
+[Digital Nomads](https://github.com/cbovis/awesome-digital-nomads)<br />
 
 [Companies or job boards advertising remote jobs](https://github.com/raynesio/remotelist)<br />
 
